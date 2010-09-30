@@ -20,10 +20,6 @@ a {
   width: 692px;
 }
 
-#header h1:hover {
-  color: #fff000;
-}
-
 #header h2 {
   float: right;
   margin-top: -0.6em;
@@ -36,5 +32,6 @@ a {
 }
 
 #nav li {
-  margin-right: 1.3em;
+  padding: 1.03em;
+  font-size: 1.5em;
 }

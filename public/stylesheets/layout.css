@@ -1,11 +1,12 @@
 #container {
-  margin: auto;
+  margin: 0 auto;
   width: 960px;
 }
 
 #nav {
   position: absolute;
   right: 30px;
+  top: 0;
 }
 
 #nav li{
