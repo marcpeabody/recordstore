@@ -2,6 +2,7 @@ body {
   font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
   font-size: 0.75em;
   line-height: 1.333em;
+  background: url('/images/bg.jpg') no-repeat scroll #d7d7d7 center top;
 }
 
 a {
@@ -27,11 +28,18 @@ a {
 }
 
 #nav {
+  background: url("/images/navigation.png") no-repeat scroll right -147px transparent;
+  height: 375px;
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 260px;
+  width: 316px;
 }
 
 #nav li {
-  padding: 1.03em;
   font-size: 1.5em;
+  padding: 0.8em;
+}
+
+#nav a, #nav a:hover {
+  color: #000;
 }
