@@ -1,0 +1,22 @@
+#container {
+  margin: auto;
+  width: 960px;
+}
+
+#nav {
+  position: absolute;
+  right: 30px;
+}
+
+#nav li{
+  float: left;
+  display: block;
+}
+
+#header {
+  float: left;
+}
+
+#content {
+  float: left;
+}

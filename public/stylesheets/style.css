@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  font-size: 0.75em;
+  line-height: 1.333em;
+}
+
+a {
+  text-decoration: none;
+}
+
+#header {
+  width: 100%;
+}
+
+#header h1 {
+  font-size: 11.2em;
+  letter-spacing: -0.1em;
+  line-height: 0.6em;
+  margin: 0.2em 0 0;
+  width: 692px;
+}
+
+#header h1:hover {
+  color: #fff000;
+}
+
+#header h2 {
+  float: right;
+  margin-top: -0.6em;
+  text-align: right;
+}
+
+#nav {
+  margin: 0;
+  padding: 0;
+}
+
+#nav li {
+  margin-right: 1.3em;
+}
